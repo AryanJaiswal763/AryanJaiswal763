@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Artificial intelligence and Machine Learning
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I am playboy
+- 😄 Pronouns: him
+- ⚡ Fun fact: ...
 
 <!---
 AryanJaiswal763/AryanJaiswal763 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
