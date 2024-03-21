@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @AryanJaiswal763
-- 👀 I’m interested in Girls  
+- 👀 I’m interested in Competitive Programming and Web Devlopment
 - 🌱 I’m currently learning Artificial intelligence and Machine Learning
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I am playboy
 
 <!---
 AryanJaiswal763/AryanJaiswal763 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
