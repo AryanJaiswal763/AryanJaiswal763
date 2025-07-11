@@ -11,8 +11,8 @@
 ### 🧑‍💻 About Me
 
 - 👨‍🎓 Studying at **Shri Ramdeobaba College Of Engineering & Management**
-- 💻 I love building real-time apps, and solving DSA challenges
-- 🔭 Currently learning **AWS** and **MERN***
+- 💻 I love building **Real-time apps**, and solving **DSA challenges**
+- 🔭 Currently learning **AWS** and **MERN**
 - 🧠 Exploring **Machine Learning**, **NLP**, and **Deep Learning**
 
 ---
