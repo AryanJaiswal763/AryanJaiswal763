@@ -17,17 +17,54 @@
 
 ---
 
-### 🚀 Tech Stack
+### 🛠️ Tech Stack
 
+#### 🚀 Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
+#### 🎨 Frontend
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-6f11e0?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+#### 🧩 Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+#### 💾 Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### 📚 Frameworks & Libraries
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+#### 🧠 ML | DL | NLP
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-blueviolet?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-ff69b4?style=for-the-badge)
+![NLP](https://img.shields.io/badge/-NLP-1c91f5?style=for-the-badge)
+
+#### 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS%20Basics-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+#### 🌐 Others
+![REST API](https://img.shields.io/badge/REST_API-00A98F?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-35495E?style=for-the-badge)
 
 ---
+
 
 ### 📈 GitHub Stats
 
@@ -42,13 +79,7 @@
 
 ---
 
-### 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AryanJaiswal763/AryanJaiswal763/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 ### 💼 Featured Projects
 
@@ -72,7 +103,7 @@
   <a href="https://github.com/AryanJaiswal763">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://aryanjaiswal763.github.io/MyPortfolio/" target="_blank">
+  <a href=" https://wondrous-belekoy-7161f3.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=web&logoColor=white" />
   </a>
 </p>
@@ -80,7 +111,7 @@
 ---
 
 ### 📌 Fun Fact
-> "The best error message is the one that never shows up 😎"
+> The best error message is the one that never shows up 😎
 
 
 
