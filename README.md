@@ -83,11 +83,10 @@
 
 ### 💼 Featured Projects
 
-| Name | Description | Tech Stack | Link |
-|------|-------------|------------|------|
-| **📊 StockPredictor App** | Predicts stock trends + news + educational resources | React, Flask, ML, API | [GitHub](https://github.com/AryanJaiswal763/StockMarketPredictionApp) |
-| **🎙️ Voice + Gesture Assistant** | Control system via gestures + voice | OpenCV, PyAudio, NLP | [GitHub](https://github.com/AryanJaiswal763/VoiceGestureControl) |
-| **🧠 Real-time Code Editor** | Live code collaboration platform | React, Flask, Socket.IO | [GitHub](https://github.com/AryanJaiswal763/Code-Editor) |
+| Name | Description | Tech Stack | 
+|------|-------------|------------|
+| **📊 CureAI** | Healthcare web application that integrates AI-driven posture detection, patient-doctor medical record management, and health analytics| HTML, CSS, Javascript, MongoDB | 
+| **🎙️ StockSage** | Machine learning-based web app that predicts future stock trends using historical data|  API, Scikit-learn, TensorFlow, PyTorch, Machine Learning Algorithms | 
 
 ---
 
