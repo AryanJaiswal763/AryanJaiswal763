@@ -86,7 +86,7 @@
 | Name | Description | Tech Stack | 
 |------|-------------|------------|
 | **📊 CureAI** | Healthcare web application that integrates AI-driven posture detection, patient-doctor medical record management, and health analytics| HTML, CSS, Javascript, MongoDB | 
-| **🎙️ StockSage** | Machine learning-based web app that predicts future stock trends using historical data|  API, Scikit-learn, TensorFlow, PyTorch, Machine Learning Algorithms | 
+| **🎙️ SmartShop Genie** | An e-commerce website which helps you purchase based on your desired filters, keeping check on your calories!| Vite+React, TypeScript, JavaScript| 
 
 ---
 
